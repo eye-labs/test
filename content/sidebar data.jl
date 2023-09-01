@@ -8,7 +8,8 @@ Dict(
     ],
     :about => Dict(
         :authors => [
-            (name = "Instructor One", url = "https://www.the-one.eu"),
+            (name = "Christopher Athaide", url = "https://www.the-one.
+eu"),
             (name = "Second Instructor", url = "https://www.the-second.com")
         ],
         :title => "A Great Course",
